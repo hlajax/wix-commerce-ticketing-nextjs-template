@@ -46,7 +46,7 @@ export function Shop({ items }: { items: products.Product[] }) {
                       className="btn-main absolute -mt-10 left-0 cursor-pointer"
                       href={`/product-page/${item.slug}`}
                     >
-                      Commander
+                      Plus de détails
                     </a>
                   ) : (
                     <button
