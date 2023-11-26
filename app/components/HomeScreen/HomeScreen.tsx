@@ -28,7 +28,7 @@ export function HomeScreen({
               </h1>
               <h3 className="text-base sm:text-2xl py-6">
                 Chez <span className="text-purple-500">AFRIKSANTE</span>
-                ,nous avons ce qu'il vous faut !
+                , nous avons ce qu'il vous faut !
               </h3>
             </div>
             <div className="bg-zinc-900 h-[75px] w-full"></div>
