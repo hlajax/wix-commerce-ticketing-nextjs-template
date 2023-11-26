@@ -22,13 +22,13 @@ export function HomeScreen({
               data-testid={testIds.HOME_PAGE.HEADER}
             >
               <h1 className="text-5xl sm:text-[120px] leading-none animate-fade-in">
-                Bien être
-                <br /> Pour
-                <br /> Tous
+                Produits
+                <br /> Bios
+                <br /> Pour tous
               </h1>
               <h3 className="text-base sm:text-2xl py-6">
-                Chez <span className="text-purple-500">AfrikSanté</span>
-                ,nous pensons d'abord à vous !
+                Chez <span className="text-purple-500">AFRIKSANTE</span>
+                ,nous avons ce qu'il vous faut !
               </h3>
               <div className="flex text-gray-700 gap-4 justify-center sm:justify-start">
                 <svg
@@ -110,8 +110,9 @@ export function HomeScreen({
               Nos Produits
             </h1>
             <p className="text-lg my-10 text-black">
-              Nos produits sont bios et contribuent au bien-être et à la bonne santé de tous.<br />
-              Nous vous proposons des crèmes, savons, cafés, thé et plein d'autres produits.
+             Nos produits sont saints et bios, ils feront votre bonheur.<br />
+             Nous vous proposons une panoplie de produits qui vous feront du bien.<br />
+             Visitez notre boutique et choisissez le produits qui vous convient.
             </p>
             <a
               href="/shop"
