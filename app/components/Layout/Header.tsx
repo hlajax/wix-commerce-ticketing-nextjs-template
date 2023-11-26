@@ -13,9 +13,7 @@ const Header = () => (
         <h2 className="flex-1">
           <a href="/">TALI$A KIDD</a>
         </h2>
-        <Image
-          src="https://static.wixstatic.com/media/c22c23_14f3a617cd684341b51dd1a3962c856e~mv2.png"
-        />
+        <Image src="https://static.wixstatic.com/media/c22c23_14f3a617cd684341b51dd1a3962c856e~mv2.png"/>
         <div>
           <Login />
         </div>
