@@ -14,14 +14,7 @@ const Header = () => (
           <a href="/">AFRIK SANTE</a>
         </h2>
         <div>
-          <Login />
-        </div>
-
-        <div>
-          <CartBag />
-        </div>
-        <div>
-          <NavBar />
+          <a href="/shop">Voir tous les produits</a>
         </div>
       </div>
     </header>
