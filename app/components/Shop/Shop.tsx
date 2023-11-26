@@ -9,7 +9,7 @@ export function Shop({ items }: { items: products.Product[] }) {
         className="bg-black text-custom-1 text-center py-4 sm:py-10 sm:py-20 h-[450px] sm:h-[520px]"
         data-testid={testIds.SHOP_PAGE.HEADER}
       >
-        <h1 className="uppercase text-3xl sm:text-6xl">Merch</h1>
+        <h1 className="uppercase text-3xl sm:text-6xl">Afrik Santé</h1>
         <p className="text-sm sm:text-base mx-auto px-8 sm:max-w-[50%] my-10">
           Visitez notre boutique et choisissez le produits qui vous convient.
         </p>
