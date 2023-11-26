@@ -87,7 +87,7 @@ export function HomeScreen({
           </div>
           <div className="basis-1/2">
             <Image
-              src="https://res.cloudinary.com/aseed/image/upload/v1700988094/afriksante/home-img_yhfktj.png"
+              src="https://res.cloudinary.com/aseed/image/upload/v1700994637/afriksante/503ea4_ed9a38760ae04aab86b47e82525fdcac_mv2_vi8ofc.webp"
               alt="Ariksante home image"
               className="w-full px-10 sm:px-0"
               width={1000}
