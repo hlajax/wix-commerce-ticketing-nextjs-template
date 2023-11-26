@@ -46,14 +46,14 @@ export function Shop({ items }: { items: products.Product[] }) {
                       className="btn-main absolute -mt-10 left-0 cursor-pointer"
                       href={`/api/quick-buy/${item._id}?quantity=1`}
                     >
-                      Buy Now
+                      Commander
                     </a>
                   ) : (
                     <button
                       className="btn-main absolute -mt-10 left-0 cursor-pointer"
                       disabled
                     >
-                      Out of Stock
+                      En rupture de stock
                     </button>
                   )}
                   <div className="p-2 text-left">
