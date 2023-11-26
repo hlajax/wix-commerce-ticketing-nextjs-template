@@ -42,9 +42,8 @@ export function Shop({ items }: { items: products.Product[] }) {
                   </div>
                   {!item.manageVariants && item.stock?.inStock ? (
                     <a
-                      data-testid={testIds.PRODUCT_ITEM.BUY_NOW_CTA}
-                      className="btn-main absolute -mt-10 left-0 cursor-pointer"
-                      href={`/api/quick-buy/${item._id}?quantity=1`}
+                      href={`/product-page/${item.slug}`}
+                  data-testid={testIds.PRODUCT_ITEM.PRODUCT_DETAILS_CTA}
                     >
                       Commander
                     </a>
