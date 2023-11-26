@@ -19,13 +19,13 @@ const Header = () => (
           src="https://static.wixstatic.com/media/cdfbfd_e1b91c24151c4513997bc077513fbdfb~mv2.png"
           alt="afrik santé logo"
         />
-       <!--<div>
+       <div>
           <Login />
         </div>
 
         <div>
           <CartBag />
-        </div>-->
+        </div>
         <div>
           <NavBar />
         </div>
