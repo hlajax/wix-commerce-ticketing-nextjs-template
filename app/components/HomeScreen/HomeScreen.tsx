@@ -110,7 +110,6 @@ export function HomeScreen({
               Nos Produits
             </h1>
             <p className="text-lg my-10 text-black">
-             Visitez notre boutique et choisissez le produits qui vous convient.
             </p>
             <a
               href="/shop"
