@@ -153,7 +153,7 @@ export const ProductSidebar: FC<ProductSidebarProps> = ({ product }) => {
             onClick={addToCart}
             disabled={loading}
           >
-            Add to Cart
+            Ajouter au panier
           </button>
           <div className="w-full pt-2">
             <a
@@ -161,7 +161,7 @@ export const ProductSidebar: FC<ProductSidebarProps> = ({ product }) => {
               className="btn-main w-full my-1 rounded-2xl block text-center"
               href={buyNowLink}
             >
-              Buy Now
+              Commander directement ce produit
             </a>
           </div>
         </div>
