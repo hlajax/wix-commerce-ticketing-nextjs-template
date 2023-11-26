@@ -109,8 +109,7 @@ export function HomeScreen({
             <h1 className="uppercase text-4xl sm:text-7xl text-center sm:text-left text-black">
               Nos Produits
             </h1>
-            <p className="text-lg my-10 text-black">
-            </p>
+            <p className="text-lg my-10 text-black">Visitez notre boutique</p>
             <a
               href="/shop"
               className="btn-main rounded-2xl text-base px-8 py-2.5"
