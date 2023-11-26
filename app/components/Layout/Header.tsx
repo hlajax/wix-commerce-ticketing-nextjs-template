@@ -13,11 +13,7 @@ const Header = () => (
         <h2 className="flex-1">
           <a href="/">AFRIK SANTE</a>
         </h2>
-        <Image
-          className="flex-1"
-          src="https://static.wixstatic.com/media/cdfbfd_e1b91c24151c4513997bc077513fbdfb~mv2.png"
-          alt="afrik santé logo"
-        />
+        <Image src="https://static.wixstatic.com/media/cdfbfd_e1b91c24151c4513997bc077513fbdfb~mv2.png" alt="afrik santé logo"/>
        <div>
           <Login />
         </div>
