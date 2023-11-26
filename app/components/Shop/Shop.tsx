@@ -11,8 +11,8 @@ export function Shop({ items }: { items: products.Product[] }) {
       >
         <h1 className="uppercase text-3xl sm:text-6xl">Merch</h1>
         <p className="text-sm sm:text-base mx-auto px-8 sm:max-w-[50%] my-10">
-          Nos produits sont bios et contribuent au bien-être et à la bonne santé de tous.<br />
-              Nous vous proposons des crèmes, savons, cafés, thé et plein d'autres produits.
+          Nos produits sont saints et bios, ils feront votre bonheur.<br />
+          Nous vous proposons une panoplie de produits qui vous feront du bien.
         </p>
       </div>
       {items.length ? (
