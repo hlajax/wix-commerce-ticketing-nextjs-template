@@ -11,11 +11,12 @@ const Header = () => (
     >
       <div className="flex px-6 sm:px-14 h-header items-center gap-4 sm:gap-8">
         <h2 className="flex-1">
-          <a href="/">AFRIK SANTE</a>
+          <a href="/">TALI$A KIDD</a>
         </h2>
-       <div>
+        <div>
           <Login />
         </div>
+
         <div>
           <CartBag />
         </div>
