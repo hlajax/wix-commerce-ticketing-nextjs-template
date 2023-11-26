@@ -87,7 +87,7 @@ export function HomeScreen({
           </div>
           <div className="basis-1/2">
             <Image
-              src="https://res.cloudinary.com/aseed/image/upload/v1700994637/afriksante/503ea4_ed9a38760ae04aab86b47e82525fdcac_mv2_vi8ofc.webp"
+              src="https://static.wixstatic.com/media/cdfbfd_a5f392d00e9c4d0dbe9ef9fd25b6a2d3~mv2.png/v1/fill/w_918,h_585,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/cdfbfd_a5f392d00e9c4d0dbe9ef9fd25b6a2d3~mv2.png"
               alt="Ariksante home image"
               className="w-full px-10 sm:px-0"
               width={1000}
@@ -97,7 +97,7 @@ export function HomeScreen({
         </div>
         <Image
           className="absolute inset-x-2/4 -translate-x-2/4 -translate-y-[20%] bottom-0 top-[20%] hidden sm:block"
-          src="https://static.wixstatic.com/media/cdfbfd_0dfc4de0c8f14c6690a5e3a84c9dd8f9~mv2.png/v1/fill/w_918,h_585,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/cdfbfd_0dfc4de0c8f14c6690a5e3a84c9dd8f9~mv2.png"
+          src="https://static.wixstatic.com/media/cdfbfd_0dfc4de0c8f14c6690a5e3a84c9dd8f9~mv2.png/v1/fill/w_202,h_245,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/cdfbfd_0dfc4de0c8f14c6690a5e3a84c9dd8f9~mv2.png"
           alt="Afriksante second home image"
           width={202}
           height={245}
