@@ -16,7 +16,6 @@ const Header = () => (
        <div>
           <Login />
         </div>
-
         <div>
           <CartBag />
         </div>
