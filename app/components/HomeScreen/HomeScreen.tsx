@@ -110,8 +110,6 @@ export function HomeScreen({
               Nos Produits
             </h1>
             <p className="text-lg my-10 text-black">
-             Nos produits sont saints et bios, ils feront votre bonheur.<br />
-             Nous vous proposons une panoplie de produits qui vous feront du bien.<br />
              Visitez notre boutique et choisissez le produits qui vous convient.
             </p>
             <a
