@@ -103,25 +103,6 @@ export function HomeScreen({
           height={245}
         />
       </div>
-      {events?.length ? (
-        <div className="bg-zinc-900 text-site pt-16 sm:p-20">
-          <Events events={events} />
-        </div>
-      ) : (
-        <div className="text-3xl w-full text-center p-9 box-border max-w-4xl mx-auto">
-          No events found. Click{' '}
-          <a
-            href="https://manage.wix.com/account/site-selector?actionUrl=https%3A%2F%2Fmanage.wix.com%2Fdashboard%2F%7BmetaSiteId%7D%2Fevents%3FreferralInfo%3DHeadless"
-            target="_blank"
-            rel="noreferrer"
-            className="text-purple-500"
-          >
-            here
-          </a>{' '}
-          to go to the business dashboard to add events. Once added, they will
-          appear here.
-        </div>
-      )}
       {productsForCategories.length ? (
         <div className="flex gap-2 sm:gap-14 px-14 flex-col sm:flex-row">
           <div className="text-custom-1 text-center sm:text-left pt-10 sm:py-20 basis-1/2">
