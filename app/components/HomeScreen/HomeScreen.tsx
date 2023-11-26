@@ -97,7 +97,7 @@ export function HomeScreen({
         </div>
         <Image
           className="absolute inset-x-2/4 -translate-x-2/4 -translate-y-[20%] bottom-0 top-[20%] hidden sm:block"
-          src="https://res.cloudinary.com/aseed/image/upload/v1700988093/afriksante/home-img-v_nch1gn.png/v1/fill/w_202,h_245,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/https://res.cloudinary.com/aseed/image/upload/v1700988093/afriksante/home-img-v_nch1gn.png"
+          src="https://static.wixstatic.com/media/cdfbfd_0dfc4de0c8f14c6690a5e3a84c9dd8f9~mv2.png/v1/fill/w_918,h_585,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/cdfbfd_0dfc4de0c8f14c6690a5e3a84c9dd8f9~mv2.png"
           alt="Afriksante second home image"
           width={202}
           height={245}
