@@ -107,18 +107,17 @@ export function HomeScreen({
         <div className="flex gap-2 sm:gap-14 px-14 flex-col sm:flex-row">
           <div className="text-custom-1 text-center sm:text-left pt-10 sm:py-20 basis-1/2">
             <h1 className="uppercase text-4xl sm:text-7xl text-center sm:text-left text-black">
-              Merch
+              Nos Produits
             </h1>
             <p className="text-lg my-10 text-black">
-              I am a paragraph. I’m a great space to write about what makes the
-              products special and explain how customers can benefit from these
-              items.
+              Nos produits sont bios et contribuent au bien-être et à la bonne santé de tous.<br />
+              Nous vous proposons des crèmes, savons, cafés, thé et plein d'autres produits.
             </p>
             <a
               href="/shop"
               className="btn-main rounded-2xl text-base px-8 py-2.5"
             >
-              Get Merch
+              Voir tous nos produits
             </a>
             {productsForCategories[1]?.product?.media?.mainMedia ? (
               <div className="mt-10 sm:mt-[300px]">
