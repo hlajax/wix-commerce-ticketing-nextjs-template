@@ -23,7 +23,8 @@ export function HomeScreen({
             >
               <h1 className="text-5xl sm:text-[120px] leading-none animate-fade-in">
                 Produits
-                <br /> de santé
+                <br /> de santé et
+                <br /> bien être
                 <br /> Pour tous
               </h1>
               <h3 className="text-base sm:text-2xl py-6">
