@@ -21,7 +21,7 @@ export function HomeScreen({
               className="px-10 sm:px-14 py-6 bg-site"
               data-testid={testIds.HOME_PAGE.HEADER}
             >
-              <h1 className="text-3xl sm:text-[120px] leading-none animate-fade-in">
+              <h1 className="text-3xl sm:text-[60px] leading-none animate-fade-in">
                 Produits
                 <br /> de santé et
                 <br /> bien être
