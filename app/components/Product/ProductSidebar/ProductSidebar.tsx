@@ -165,10 +165,7 @@ export const ProductSidebar: FC<ProductSidebarProps> = ({ product }) => {
             </a>
           </div>
           <div className="w-full pt-2">
-            <a
-              data-testid={testIds.PRODUCT_DETAILS.BUY_NOW_CTA}
-              className="btn-main w-full my-1 rounded-2xl block text-center"
-              href="https://wa.me//+24166720606">
+            <a data-testid={testIds.PRODUCT_DETAILS.BUY_NOW_CTA} className="btn-main w-full my-1 rounded-2xl block text-center" href="https://wa.me//+24166720606" target="_blank">
               Commander sur WhatsApp
             </a>
           </div>
